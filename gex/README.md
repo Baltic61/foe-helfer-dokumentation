@@ -30,6 +30,8 @@ In der Rangliste wird die Platzierung der an der GEX-Runde beteilgten Gilden mit
 
 ![Mitgliederbeteiligung](./.images/gex-mitglieder.png) 
 
+Hier fehlt noch Text
+
 ## Verlauf
 
 ![Verlauf](./.images/gex-verlauf.png) 
