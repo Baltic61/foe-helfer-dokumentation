@@ -9,6 +9,7 @@ Das Modul wird über das nachfolgend abgebildete Icon gestartet:
 + Die Auswahl der anzuzeigenden Daten erfolgt über das Anklicken eines der Reiter **Rangliste**, **Mitgliederbeteiligung** oder **Verlauf**.
 + Die Anzeige der Daten für Rangliste und Mitgliederbeteiligung erfolgt für jeweils eine GEX-Runde. 
   Der gewünschte Zeitraum kann im Auswahlfeld der Zeile **GEX Woche** eingestellt werden (Pull-down-Menü oder Buttons).
+  Voreingestellt ist die laufende GEX-Runde. Wenn für diesen Zeitraum noch keine Daten an das Modul übermittelt wurden, erscheint der Hinweis, dass zunächst die GEX im Spiel besucht werden muss.
 + Der Verlauf zeigt eine grafische Darstellung über die Ergebnisse der zurückliegenden GEX-Runden.
 
 ![Icon](./.images/dummy.png) 
