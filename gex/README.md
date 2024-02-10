@@ -19,8 +19,14 @@ Das Modul wird über das nachfolgend abgebildete Icon gestartet:
 
 ## Rangliste
 
+![Icon](./.images/rangliste.png) 
+
 ## Mitgliederbeteiligung
 
+![Icon](./.images/mitglieder.png) 
+
 ## Verlauf
+
+![Icon](./.images/verlauf.png) 
 
 ## Datenexport
