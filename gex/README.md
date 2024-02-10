@@ -19,14 +19,14 @@ Das Modul wird über das nachfolgend abgebildete Icon gestartet:
 
 ## Rangliste
 
-![Icon](./.images/rangliste.png) 
+![Rangliste](./.images/gex-rangliste.png) 
 
 ## Mitgliederbeteiligung
 
-![Icon](./.images/mitglieder.png) 
+![Mitgliederbeteiligung](./.images/gex-mitglieder.png) 
 
 ## Verlauf
 
-![Icon](./.images/verlauf.png) 
+![Verlauf](./.images/gex-verlauf.png) 
 
 ## Datenexport
