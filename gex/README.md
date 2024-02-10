@@ -45,7 +45,7 @@ In einer grafischen Übersicht wird hier die Leistung der Gilde in der aktuellen
 
 Diese Angaben werden für die jeweilige GEX-Runde auch in tabellarischer Form mit den genauen Zahlenwerten angezeigt, wenn man den Mauszeiger innerhalb der Grafik auf die gewünschte GEX-Runde bewegt.
 
-Wird der Mauszeiger auf einen der Datennamen in der Legende am unteren Rand des Fensters bewegt, werden diese Daten hervorgehoben während die restlichen Daten nur noch schwach dargestellt werden.
+Wird der Mauszeiger auf einen der Datennamen in der Legende am unteren Rand des Fensters bewegt, werden diese Daten in der Grafik hervorgehoben, während die restlichen Daten nur noch schwach dargestellt werden.
 
 Durch Anklicken eines oder mehrerer der Datennamen werden die entsprechenden Daten ausgeblendet. Erneutes Anklicken blendet die jeweiligen Daten wieder ein.
 
