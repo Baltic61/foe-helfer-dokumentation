@@ -22,7 +22,7 @@ Das Modul wird über das nachfolgend abgebildete Icon gestartet:
 
 ![GEX-Helfer](./.images/gex-rangliste.png) 
 
-In der Rangliste wird die Platzierung der an der GEX-Runde beteilgten Gilden mit Gildenwappen, Gildennamen und Spielwelt sowie dem Link auf die Gilde in der Datenbank https://foe.scoredb.io angezeigt. Es folgt der erreichte Prozentsatz (64 Begegnungen je Spieler entspricht 100%) sowie weitere Informationen zu den Gilden, einschließlich der bisher erreichten Platzierungen.
+In der Rangliste wird die Platzierung der an der GEX-Runde beteiligten Gilden mit Gildenwappen, Gildennamen und Spielwelt sowie dem Link auf die Gilde in der Datenbank https://foe.scoredb.io angezeigt. Es folgt der erreichte Prozentsatz (64 Begegnungen je Spieler entspricht 100%) sowie weitere Informationen zu den Gilden, einschließlich der bisher erreichten Platzierungen.
 
 ## Mitgliederbeteiligung
 
